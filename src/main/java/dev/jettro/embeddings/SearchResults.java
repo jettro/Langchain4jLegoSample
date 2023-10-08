@@ -1,4 +1,4 @@
-package dev.jettro;
+package dev.jettro.embeddings;
 
 import java.util.List;
 

@@ -1,4 +1,4 @@
-package dev.jettro;
+package dev.jettro.embeddings;
 
 /**
  * Class used to store the result of a search.
